@@ -16,7 +16,7 @@ namespace ScheduleBuildA4
             { 4,new Product(){ Name="Center fresh",Price=2,Brand="Perfetti",ManufacturingDate=new DateTime(day:1,month:12,year:2023),ExpiryDate=new DateTime(day:1,month:12,year:2024)} },
             { 5,new Product(){ Name="santoor",Price=35,Brand="Wipro",ManufacturingDate=new DateTime(day:1,month:12,year:2023),ExpiryDate=new DateTime(day:1,month:12,year:2026)} },
             { 6,new Product(){ Name="Milk",Price=60,Brand="Arokya",ManufacturingDate=new DateTime(day:16,month:2,year:2024),ExpiryDate=new DateTime(day:20,month:2,year:2024)} },
-           // { 7,new Product(){ Name="Milkpowder",Price=260,Brand="Babydown",ManufacturingDate=new DateTime(day:5,month:2,year:2024),ExpiryDate=new DateTime(day:20,month:2,year:2025)} },
+            { 7,new Product(){ Name="Milkpowder",Price=260,Brand="Babydown",ManufacturingDate=new DateTime(day:5,month:2,year:2024),ExpiryDate=new DateTime(day:20,month:2,year:2025)} },
             // { 8,new Product(){ Name="Sprite",Price=99,Brand="Cola",ManufacturingDate=new DateTime(day:7,month:11,year:2024),ExpiryDate=new DateTime(day:7,month:11,year:2026)} }
        };
         public SortedList<int, Product> AllProducts()
