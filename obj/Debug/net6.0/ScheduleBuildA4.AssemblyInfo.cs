@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScheduleBuildA4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+655a94d2062420215065f1dbcafd47ab365ea8d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3de542b436dfab7c8ab87951eeb908f703affd2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScheduleBuildA4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScheduleBuildA4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
