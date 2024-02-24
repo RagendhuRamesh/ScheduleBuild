@@ -1,0 +1,14 @@
+C:\Users\Ragendhu\source\repos\Phase4\ScheduleBuildA4\ScheduleBuildA4\obj\Debug\net6.0\ScheduleBuildA4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ragendhu\source\repos\Phase4\ScheduleBuildA4\ScheduleBuildA4\obj\Debug\net6.0\ScheduleBuildA4.AssemblyInfoInputs.cache
+C:\Users\Ragendhu\source\repos\Phase4\ScheduleBuildA4\ScheduleBuildA4\obj\Debug\net6.0\ScheduleBuildA4.AssemblyInfo.cs
+C:\Users\Ragendhu\source\repos\Phase4\ScheduleBuildA4\ScheduleBuildA4\obj\Debug\net6.0\ScheduleBuildA4.csproj.CoreCompileInputs.cache
+C:\Users\Ragendhu\source\repos\Phase4\ScheduleBuildA4\ScheduleBuildA4\bin\Debug\net6.0\ScheduleBuildA4.exe
+C:\Users\Ragendhu\source\repos\Phase4\ScheduleBuildA4\ScheduleBuildA4\bin\Debug\net6.0\ScheduleBuildA4.deps.json
+C:\Users\Ragendhu\source\repos\Phase4\ScheduleBuildA4\ScheduleBuildA4\bin\Debug\net6.0\ScheduleBuildA4.runtimeconfig.json
+C:\Users\Ragendhu\source\repos\Phase4\ScheduleBuildA4\ScheduleBuildA4\bin\Debug\net6.0\ScheduleBuildA4.dll
+C:\Users\Ragendhu\source\repos\Phase4\ScheduleBuildA4\ScheduleBuildA4\bin\Debug\net6.0\ScheduleBuildA4.pdb
+C:\Users\Ragendhu\source\repos\Phase4\ScheduleBuildA4\ScheduleBuildA4\obj\Debug\net6.0\ScheduleBuildA4.dll
+C:\Users\Ragendhu\source\repos\Phase4\ScheduleBuildA4\ScheduleBuildA4\obj\Debug\net6.0\refint\ScheduleBuildA4.dll
+C:\Users\Ragendhu\source\repos\Phase4\ScheduleBuildA4\ScheduleBuildA4\obj\Debug\net6.0\ScheduleBuildA4.pdb
+C:\Users\Ragendhu\source\repos\Phase4\ScheduleBuildA4\ScheduleBuildA4\obj\Debug\net6.0\ScheduleBuildA4.genruntimeconfig.cache
+C:\Users\Ragendhu\source\repos\Phase4\ScheduleBuildA4\ScheduleBuildA4\obj\Debug\net6.0\ref\ScheduleBuildA4.dll
